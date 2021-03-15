@@ -3,6 +3,7 @@ def using_times
 	while counter<7
 	  puts "Wingardium Leviosa"
 	  counter +=1
+	end
 end
 
 
