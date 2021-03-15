@@ -1,5 +1,8 @@
 def using_times
-	#your code here
+	counter=0
+	while counter<7
+	  puts "Wingardium Leviosa"
+	  counter +=1
 end
 
 
